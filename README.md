@@ -12,6 +12,6 @@
 </div>
 
 ![Foto de perfil alura](https://avatars.githubusercontent.com/u/196814475?s=400&u=196f409b6cb41b8e24896eed9f7ec46728961336&v=4)
-* [Eduardo Machado Hernandez]()
+* [Eduardo Machado Hernandez](https://github.com/EduardoHernandez309B)
 
 
